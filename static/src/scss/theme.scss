@@ -35,8 +35,8 @@ a.btn {
 .o_main_navbar {
     align-items: center;
     border-bottom: 0px solid #5f5e97 !important;
-    -webkit-box-shadow: 0 0.75rem 1.5rem rgba(18,38,63,.03) !important;
-    box-shadow: 0 0.75rem 1.5rem rgba(18,38,63,.03) !important;
+    -webkit-box-shadow: 0 0.75rem 1.5rem rgba(18,38,63,.00) !important;
+    box-shadow: 0 0.75rem 1.5rem rgba(18,38,63,.00) !important;
     background-color: #fff !important;
 }
 
@@ -137,8 +137,8 @@ a.btn {
     border-bottom: none important;
     margin: 15px 15px 0 15px;
     background-color: #ffffff !important;
-    -webkit-box-shadow: 0 0.75rem 1.5rem rgba(18,38,63,.03) !important;
-    box-shadow: 0 0.75rem 1.5rem rgba(18,38,63, .03) !important;
+    -webkit-box-shadow: 0 0.75rem 1.5rem rgba(18,38,63,.00) !important;
+    box-shadow: 0 0.75rem 1.5rem rgba(18,38,63, .00) !important;
     border-radius: 5px;
 }
 
@@ -286,20 +286,20 @@ button[name="action_uninstall"] {
 button[name="action_uninstall"]:hover {
     color: #fff !important;
     background-color: #cd9941 !important;
-    border-color: #c1903d !important;
+    border-color: #c1900d !important;
 }
 .btn-warning:active,
 button[name="action_uninstall"]:active {
     color: #fff !important;
-    background-color: #c1903d !important;
+    background-color: #c1900d !important;
     border-color: #b58739 !important;
 }
 .btn-warning:focus,
 button[name="action_uninstall"]:focus {
     color: #fff !important;
     background-color: #cd9941 !important;
-    border-color: #c1903d !important;
-    -webkit-box-shadow: 0 0 0 0.15rem rgba(243,191,103,.50) !important;
+    border-color: #c1900d !important;
+    -webkit-box-shadow: 0 0 0 0.15rem rgba(243,191,100,.50) !important;
     box-shadow: 0 0 0 0.15rem rgba(243,191,1,.50) !important;
 }
 
@@ -600,8 +600,8 @@ th.o_list_record_selector {
 	color: #dee2e6 !important;
     border-radius: 5px;
 	margin-right: 10px !important;
-    -webkit-box-shadow: 0 0.75rem 1.5rem rgba(18,38,63,.03) !important;
-    box-shadow: 0 0.75rem 1.5rem rgba(18,38,63, .03) !important;
+    -webkit-box-shadow: 0 0.75rem 1.5rem rgba(18,38,63,.00) !important;
+    box-shadow: 0 0.75rem 1.5rem rgba(18,38,63, .00) !important;
 }
 
 .o_DiscussSidebar_item.o-active {
@@ -627,8 +627,8 @@ th.o_list_record_selector {
     border-top: none !important;
     background-color: #ffffff !important;
     border-radius: 5px;
-    -webkit-box-shadow: 0 0.75rem 1.5rem rgba(18,38,63,.03) !important;
-    box-shadow: 0 0.75rem 1.5rem rgba(18,38,63,.03) !important;
+    -webkit-box-shadow: 0 0.75rem 1.5rem rgba(18,38,63,.00) !important;
+    box-shadow: 0 0.75rem 1.5rem rgba(18,38,63,.00) !important;
 }
 .o_DiscussSidebarItem_counter {
     background-color: #f46a6a !important;
@@ -669,8 +669,8 @@ th.o_list_record_selector {
     margin-top: 15px !important;
     padding: 0 !important;
     border-radius: 5px;
-    -webkit-box-shadow: 0 0.75rem 1.5rem rgba(18,38,63,.03) !important;
-    box-shadow: 0 0.75rem 1.5rem rgba(18,38,63, .03) !important;
+    -webkit-box-shadow: 0 0.75rem 1.5rem rgba(18,38,63,.00) !important;
+    box-shadow: 0 0.75rem 1.5rem rgba(18,38,63, .00) !important;
 }
 .o_ChatterContainer {
     padding: 10px;
@@ -889,14 +889,14 @@ select {
 .settings {
     margin-left: 15px;
 	background-color: #ffffff !important;
-    -webkit-box-shadow: 0 0.75rem 1.5rem rgba(18,38,63,.03) !important;
-    box-shadow: 0 0.75rem 1.5rem rgba(18,38,63, .03) !important;
+    -webkit-box-shadow: 0 0.75rem 1.5rem rgba(18,38,63,.00) !important;
+    box-shadow: 0 0.75rem 1.5rem rgba(18,38,63, .00) !important;
     border-radius: 5px;
 }
 .settings_tab {
 	background-color: #ffffff !important;
-    -webkit-box-shadow: 0 0.75rem 1.5rem rgba(18,38,63,.03) !important;
-    box-shadow: 0 0.75rem 1.5rem rgba(18,38,63, .03) !important;
+    -webkit-box-shadow: 0 0.75rem 1.5rem rgba(18,38,63,.00) !important;
+    box-shadow: 0 0.75rem 1.5rem rgba(18,38,63, .00) !important;
     border-radius: 5px;
 }
 .o_base_settings .o_setting_container .settings_tab .selected,
@@ -935,8 +935,8 @@ select {
 .o_content {
     margin: 15px;
     border-radius: 5px;
-    -webkit-box-shadow: 0 0.75rem 1.5rem rgba(18,38,63,.03) !important;
-    box-shadow: 0 0.75rem 1.5rem rgba(18,38,63, .03) !important;
+    -webkit-box-shadow: 0 0.75rem 1.5rem rgba(18,38,63,.00) !important;
+    box-shadow: 0 0.75rem 1.5rem rgba(18,38,63, .00) !important;
     background-color: #dcdcde;
 }
 .o_action {
@@ -948,13 +948,13 @@ select {
 .o_kanban_view {
     border-radius: 5px;
     background: #fff;
-    -webkit-box-shadow: 0 0.75rem 1.5rem rgba(18,38,63,.03) !important;
-    box-shadow: 0 0.75rem 1.5rem rgba(18,38,63, .03) !important;
+    -webkit-box-shadow: 0 0.75rem 1.5rem rgba(18,38,63,.00) !important;
+    box-shadow: 0 0.75rem 1.5rem rgba(18,38,63, .00) !important;
 }
 .o_kanban_view.o_kanban_ungrouped .o_kanban_record {
     border-radius: 5px;
-    -webkit-box-shadow: 0 0.75rem 1.5rem rgba(18,38,63,.03) !important;
-    box-shadow: 0 0.75rem 1.5rem rgba(18,38,63, .03) !important;
+    -webkit-box-shadow: 0 0.75rem 1.5rem rgba(18,38,63,.00) !important;
+    box-shadow: 0 0.75rem 1.5rem rgba(18,38,63, .00) !important;
 }
 .o_kanban_view .o_kanban_group {
     background: #fff;
@@ -967,8 +967,8 @@ select {
 .o_kanban_view.o_kanban_grouped .o_kanban_record, .o_kanban_view.o_kanban_grouped .o_kanban_quick_create {
     border-radius: 5px;
     margin-bottom: 10px;
-    -webkit-box-shadow: 0 0.75rem 1.5rem rgba(18,38,63,.03) !important;
-    box-shadow: 0 0.75rem 1.5rem rgba(18,38,63, .03) !important;
+    -webkit-box-shadow: 0 0.75rem 1.5rem rgba(18,38,63,.00) !important;
+    box-shadow: 0 0.75rem 1.5rem rgba(18,38,63, .00) !important;
 }
 .o_kanban_view.o_kanban_dashboard .o_kanban_record .o_kanban_card_header + .container.o_kanban_card_content .o_kanban_primary_bottom.bottom_block {
     border-bottom-left-radius: 5px;
@@ -1006,8 +1006,8 @@ canvas.chartjs-render-monitor {
     border-right: none;
     background-color: #ffffff;
     border-radius: 5px;
-    -webkit-box-shadow: 0 0.75rem 1.5rem rgba(18,38,63,.03) !important;
-    box-shadow: 0 0.75rem 1.5rem rgba(18,38,63, .03) !important;
+    -webkit-box-shadow: 0 0.75rem 1.5rem rgba(18,38,63,.00) !important;
+    box-shadow: 0 0.75rem 1.5rem rgba(18,38,63, .00) !important;
 }
 .list-group-item-action {
     width: 100%;
@@ -1085,8 +1085,8 @@ select, input {
 .o_onboarding_container.collapse.show {
     border-radius: 5px !important;
     margin: 15px 15px 0px 15px;
-    -webkit-box-shadow: 0 0.75rem 1.5rem rgba(18,38,63,.03) !important;
-    box-shadow: 0 0.75rem 1.5rem rgba(18,38,63, .03) !important;
+    -webkit-box-shadow: 0 0.75rem 1.5rem rgba(18,38,63,.00) !important;
+    box-shadow: 0 0.75rem 1.5rem rgba(18,38,63, .00) !important;
 }
 .o_onboarding.o_onboarding_blue,
 .o_onboarding.o_onboarding_blue .o_onboarding_step_title,
@@ -1104,8 +1104,8 @@ select, input {
 //modal starts
 .modal.o_technical_modal .modal-content {
     border-radius: 5px;
-    -webkit-box-shadow: 0 0.75rem 1.5rem rgba(18,38,63,.03) !important;
-    box-shadow: 0 0.75rem 1.5rem rgba(18,38,63, .03) !important;
+    -webkit-box-shadow: 0 0.75rem 1.5rem rgba(18,38,63,.00) !important;
+    box-shadow: 0 0.75rem 1.5rem rgba(18,38,63, .00) !important;
     background-color: #fff;
     background-clip: padding-box;
     border: 1px solid #f6f6f6;
@@ -1147,8 +1147,8 @@ select, input {
     background-color: #fff !important;
     margin: 0 15px 10px 15px;
     border-radius: 5px;
-    -webkit-box-shadow: 0 0.75rem 1.5rem rgba(18,38,63,.03) !important;
-    box-shadow: 0 0.75rem 1.5rem rgba(18,38,63, .03) !important;
+    -webkit-box-shadow: 0 0.75rem 1.5rem rgba(18,38,63,.00) !important;
+    box-shadow: 0 0.75rem 1.5rem rgba(18,38,63, .00) !important;
 }
 //lunch ends
 
@@ -1159,8 +1159,8 @@ select, input {
 .o_hr_attendance_kiosk_mode {
     background-color: #fff !important;
     border-radius: 0 0 5px 5px !important;
-    -webkit-box-shadow: 0 0.75rem 1.5rem rgba(18,38,63,.03) !important;
-    box-shadow: 0 0.75rem 1.5rem rgba(18,38,63, .03) !important;
+    -webkit-box-shadow: 0 0.75rem 1.5rem rgba(18,38,63,.00) !important;
+    box-shadow: 0 0.75rem 1.5rem rgba(18,38,63, .00) !important;
 }
 .o_hr_attendance_kiosk_mode .o_hr_attendance_user_badge {
     border-radius: 5px 5px 0 0 !important;
@@ -1335,8 +1335,8 @@ select, input {
     color: #924040 !important;
     background-color: #fde1e1 !important;
     border-color: #fcd2d2 !important;
-    -webkit-box-shadow: 0 0.75rem 1.5rem rgba(18,38,63,.03) !important;
-    box-shadow: 0 0.75rem 1.5rem rgba(18,38,63, .03) !important;
+    -webkit-box-shadow: 0 0.75rem 1.5rem rgba(18,38,63,.00) !important;
+    box-shadow: 0 0.75rem 1.5rem rgba(18,38,63, .00) !important;
 }
 .toast-header {
     border-bottom: 1px solid #fcd2d2 !important;
