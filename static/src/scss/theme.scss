@@ -5,7 +5,7 @@
 }
 body {
     font-family: 'Poppins', sans-serif !important;
-    background-color: #f8f8fb;
+    background-color: #dcdcde;
 }
 a {
     color: $primary_accent;
@@ -92,7 +92,7 @@ a.btn {
 }
 
 .o_control_panel {
-    background: #f8f8fb !important;
+    background: #dcdcde !important;
     border:none !important;
 }
 
@@ -114,7 +114,7 @@ a.btn {
 }
 .o_searchview .o_searchview_facet {
     border: 1px solid #ddd;
-    background: #f8f8fb;
+    background: #dcdcde;
     border-radius: 10px;
     padding: 0 2px;
     max-height:20px;
@@ -144,7 +144,7 @@ a.btn {
 
 .o_form_view,
 .o_widget_Discuss {
-    background: #f8f8fb;
+    background: #dcdcde;
 }
 .o_form_statusbar .o_statusbar_buttons .btn {
     margin-right: 15px !important;
@@ -880,7 +880,7 @@ select {
     padding-left: 12px;
 }
 .o_setting_container {
-    background: #f8f8fb;
+    background: #dcdcde;
     padding: 15px 0 0 0;
 }
 .o_base_settings .o_control_panel {
@@ -937,10 +937,10 @@ select {
     border-radius: 5px;
     -webkit-box-shadow: 0 0.75rem 1.5rem rgba(18,38,63,.03) !important;
     box-shadow: 0 0.75rem 1.5rem rgba(18,38,63, .03) !important;
-    background-color: #f8f8fb;
+    background-color: #dcdcde;
 }
 .o_action {
-    background: #f8f8fb;
+    background: #dcdcde;
 }
 //common ends
 
@@ -962,7 +962,7 @@ select {
     margin-right: 10px;
 }
 .o_kanban_view.o_kanban_grouped {
-    background-color: #f8f8fb;
+    background-color: #dcdcde;
 }
 .o_kanban_view.o_kanban_grouped .o_kanban_record, .o_kanban_view.o_kanban_grouped .o_kanban_quick_create {
     border-radius: 5px;
@@ -1154,7 +1154,7 @@ select, input {
 
 //kiosk starts
 .o_hr_attendance_kiosk_backdrop {
-    background-color: #f8f8fb !important;
+    background-color: #dcdcde !important;
 }
 .o_hr_attendance_kiosk_mode {
     background-color: #fff !important;
